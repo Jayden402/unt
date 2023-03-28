@@ -18,7 +18,7 @@ PyJWT==1.7.1
 pytz==2020.1
 qiniu==7.3.0
 qrcode==6.1
-redis==3.5.3
+redis==4.3.6
 requests==2.24.0
 six==1.15.0
 sqlparse==0.4.1
