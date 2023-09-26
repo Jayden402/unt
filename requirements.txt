@@ -12,7 +12,7 @@ djangorestframework==3.12.1
 djangorestframework-jwt==1.11.0
 idna==2.10
 mysqlclient==2.0.1
-Pillow==8.0.1
+Pillow==10.0.1
 pycrypto==2.6.1
 PyJWT==1.7.1
 pytz==2020.1
